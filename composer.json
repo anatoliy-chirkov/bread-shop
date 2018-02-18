@@ -1,0 +1,13 @@
+{
+    "name": "anatoliy/tarusa-bread",
+    "type": "project",
+    "require": {
+        "twitter/bootstrap": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Anatoliy Chirkov",
+            "email": "chirkoff.ab@gmail.com"
+        }
+    ]
+}

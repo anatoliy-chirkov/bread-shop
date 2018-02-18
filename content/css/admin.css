@@ -1,0 +1,86 @@
+body {
+    padding-bottom: 40px;
+    color: #5a5a5a;
+    background-color: rgba(209, 209, 209, 0.33);
+    /* background-image: url(../images/craft4.jpg); */
+    color: #212121;
+}
+/* Navbar */
+.navbar_content-link, .navbar_content-link:hover {
+  color: black;
+  text-decoration: none;
+}
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+.navbar_content {
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+.navbar {
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  background-image: url(../images/craft4.jpg); 
+}
+.navbar_content-logo {
+  background-image: url(../images/head.png);
+  background-position: center top;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 38px;
+  height: 45px;
+  display: inline-block;
+}
+.navbar_content-title {
+  display: inline-block;
+  font-size: 24px;
+  margin-left: 10px;
+  line-height: ;
+  vertical-align: top;
+}
+/* Content */
+.inform_log {
+  margin: 10px 0;
+}
+.content {
+  margin-left: 10px;
+}
+.container_content {
+  margin-top: 50px;
+}
+.container_inner {
+  margin-top: 50px;
+}
+.menu_button-childs {
+  display: none;
+}
+.main_menu {
+  padding: 30px 0;
+}
+.main_menu ul li {
+  list-style: none outside;
+  padding-bottom: 10px;
+}
+td {
+  padding: 10px 10px;
+}
+.my_select {
+  margin-bottom: 30px;
+}
+.add_button {
+  margin-bottom: 15px;
+}
+.table_image {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 40px;
+}
+table {
+  background-color: white;
+}
